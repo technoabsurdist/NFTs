@@ -1,7 +1,7 @@
 # Making an NFT Project
 
 ## This project is meant as an introduction to me into the Solidity development world of NFTs ## <br />
-## Done with @_buildspace, a great resource for Web3 learning. ## <br />
+## Done with @_buildspace, a great resource for Web3 learning. <br />
 
 
 **For Hardhat** 
